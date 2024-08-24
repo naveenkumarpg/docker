@@ -1,0 +1,12 @@
+{
+  "name": "docker-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Naveen Setty",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.17.1"
+  }
+}
